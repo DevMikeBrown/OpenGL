@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build",
+  "command": "C:\\Users\\uyand\\Documents\\Applications\\Mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/LaunchVictorGordan.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\LaunchVictorGordan.dir\\Src\\Main.cpp.obj -c C:\\Users\\uyand\\Desktop\\OpenGL\\FromVictorGordan\\Src\\Main.cpp",
+  "file": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/Src/Main.cpp",
+  "output": "CMakeFiles/LaunchVictorGordan.dir/Src/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build",
+  "command": "C:\\Users\\uyand\\Documents\\Applications\\Mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles/LaunchVictorGordan.dir/includes_C.rsp -g -o CMakeFiles\\LaunchVictorGordan.dir\\Src\\Glad\\src\\glad.c.obj -c C:\\Users\\uyand\\Desktop\\OpenGL\\FromVictorGordan\\Src\\Glad\\src\\glad.c",
+  "file": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/Src/Glad/src/glad.c",
+  "output": "CMakeFiles/LaunchVictorGordan.dir/Src/Glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build",
+  "command": "C:\\Users\\uyand\\Documents\\Applications\\Mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles\\glad.dir\\Src\\Glad\\src\\glad.c.obj -c C:\\Users\\uyand\\Desktop\\OpenGL\\FromVictorGordan\\Src\\Glad\\src\\glad.c",
+  "file": "C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/Src/Glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/Src/Glad/src/glad.c.obj"
+}
+]

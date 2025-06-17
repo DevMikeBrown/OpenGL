@@ -1,0 +1,1 @@
+  -L"C:/Users/uyand/scoop/apps/GLFW/3.4/lib-mingw-w64"  -LC:/Users/uyand/Desktop/OpenGL/FromVictorGordan/./Src/Glad/src  -lglfw3 -lopengl32 -lkernel32 -lgdi32 -luser32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

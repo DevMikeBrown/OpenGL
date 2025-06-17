@@ -1,0 +1,4 @@
+C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build/CMakeFiles/LaunchVictorGordan.dir
+C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build/CMakeFiles/glad.dir
+C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build/CMakeFiles/edit_cache.dir
+C:/Users/uyand/Desktop/OpenGL/FromVictorGordan/build/CMakeFiles/rebuild_cache.dir
